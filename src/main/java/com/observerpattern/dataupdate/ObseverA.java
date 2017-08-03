@@ -12,6 +12,7 @@ public class ObseverA implements Observer {
     }
 
     public void update(Observable o, Object arg) {
+
         System.out.println("Aobserver receive:Data has changed to: "+((ServerManager)o).getData());
     }
 }
