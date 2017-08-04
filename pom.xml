@@ -12,6 +12,8 @@
         <module>stratege-pattern</module>
         <module>adapter-pattern</module>
         <module>chain-of-responsibility</module>
+        <module>state-pattern</module>
+        <module>mediator-pattern</module>
     </modules>
 
 
